@@ -1,0 +1,19 @@
+{
+  "name": "projetonode",
+  "version": "1.0.0",
+  "description": "Mini projeto Node, para listar em ordem alfabética propriedades CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "projeto",
+    "Node"
+  ],
+  "author": "Alexandre Bastos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "readline-sync": "^1.4.10"
+  }
+}
